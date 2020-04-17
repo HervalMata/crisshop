@@ -11,3 +11,4 @@ Cris Shopping é um e-commerce de laços, tiaras e viseiras:
 - Criação do Projeto.
 - Configurando Banner do Projeto.
 - Configurando a autenticação do laravel.
+- Configurando o adminlte
